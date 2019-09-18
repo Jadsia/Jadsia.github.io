@@ -1043,7 +1043,7 @@ body.offcanvas .colorlib-nav-toggle {
 .colorlib-feature {
   text-align: left;
   width: 100%;
-  float: left;
+  float: center;
   margin-bottom: 40px;
   position: relative;
 }
