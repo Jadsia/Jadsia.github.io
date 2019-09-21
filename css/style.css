@@ -557,6 +557,7 @@ body.offcanvas .colorlib-nav-toggle {
 .hire {
   padding: 2em;
   background: #f9bf3f;
+  background-image: url("git-icon.png");
 }
 .hire h2 {
   line-height: 1.5;
