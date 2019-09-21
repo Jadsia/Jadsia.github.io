@@ -587,7 +587,8 @@ body {
 }
 .hire{
 	padding: 2em;
-	background: $brand-color-3;
+  background: $brand-color-3;
+  background-image: url("git-icon.png");
 	h2{
 		line-height: 1.5;
 	}
