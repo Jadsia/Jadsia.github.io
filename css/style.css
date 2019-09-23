@@ -569,6 +569,26 @@ body.offcanvas .colorlib-nav-toggle {
   padding: 2px 10px;
 }
 
+.git-img {
+  width: 100px;
+  height: 100px;
+}
+
+.parent-git {
+  overflow: auto;
+}
+
+.git-box {
+  float: left;
+  margin-right: 75px;
+}
+
+.tool-picture {
+  width: 125px;
+  height: 100px;
+  margin-top: 75px;
+}
+
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0;
 }
