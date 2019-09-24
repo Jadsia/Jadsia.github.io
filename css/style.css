@@ -587,6 +587,7 @@ body.offcanvas .colorlib-nav-toggle {
   width: 125px;
   height: 100px;
   margin-top: 75px;
+  margin-left: 50px;
 }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
