@@ -1319,6 +1319,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .project:hover .desc {
   opacity: 1;
+  text-decoration: underline
 }
 
 .project:hover .desc h3 {
