@@ -586,7 +586,7 @@ body.offcanvas .colorlib-nav-toggle {
 .project-link {
   width: 100px;
   height: 100px;
-  margin-top: 200px;
+  vertical-align: bottom;
 }
 
 .tool-picture {
