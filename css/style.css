@@ -583,6 +583,12 @@ body.offcanvas .colorlib-nav-toggle {
   margin-right: 75px;
 }
 
+.project-link {
+  width: 100px;
+  height: 100px;
+  margin-top: 200px;
+}
+
 .tool-picture {
   width: 125px;
   height: 100px;
