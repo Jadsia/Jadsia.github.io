@@ -1285,10 +1285,6 @@ body.offcanvas .colorlib-nav-toggle {
   color: #fff;
 }
 
-.project .desc h3 a:hover {
-text-decoration: underline
-}
-
 .project .desc span {
   display: block;
   color: rgba(255, 255, 255, 0.7);
