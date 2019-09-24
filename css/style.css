@@ -1131,6 +1131,10 @@ body.offcanvas .colorlib-nav-toggle {
   }
 }
 
+.link-behavior:hover {
+  text-decoration:underline;
+}
+
 .blog-entry {
   width: 100%;
   float: left;
