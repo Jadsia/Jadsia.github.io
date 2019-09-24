@@ -1132,7 +1132,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .link-behavior:hover {
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .blog-entry {
@@ -1322,6 +1322,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .project:hover .desc {
   opacity: 1;
+  text-decoration: underline;
 }
 .project:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
