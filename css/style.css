@@ -1131,7 +1131,7 @@ body.offcanvas .colorlib-nav-toggle {
   }
 }
 
-.link-behavior:hover {
+a.link-behavior:hover {
   text-decoration: underline;
 }
 
@@ -1288,6 +1288,11 @@ body.offcanvas .colorlib-nav-toggle {
 .project .desc h3 a {
   color: #fff;
 }
+
+.project .desc h3 a:hover {
+text-decoration: underline
+}
+
 .project .desc span {
   display: block;
   color: rgba(255, 255, 255, 0.7);
@@ -1332,10 +1337,6 @@ body.offcanvas .colorlib-nav-toggle {
 .project:hover .desc span {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-}
-
-.project:hover .a {
-  text-decoration: underline;
 }
 
 .btn-load-more {
