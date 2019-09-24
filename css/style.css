@@ -1072,6 +1072,7 @@ body.offcanvas .colorlib-nav-toggle {
   float: center;
   margin-bottom: 40px;
   position: relative;
+  display: inline-grid;
 }
 .colorlib-feature .colorlib-icon {
   position: absolute;
